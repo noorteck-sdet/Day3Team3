@@ -4,7 +4,7 @@ public class DemoTest1 {
 	
 	public static void main(String[] args) {
 		System.out.println("Team 3");
-		System.out.println("Happy bday Alishan...");
+		System.out.println("Alishan stop...");
 	}
 	
 
