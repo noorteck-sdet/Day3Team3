@@ -37,5 +37,11 @@ public class DemoTest1 {
 	}
 
 	// WE LOVE JAVA!!!!!! - said no one
+	
+	public boolean isRaining() {
+		System.out.println("it is alwasy raining here...");
+		return true;
+
+	}
 
 }
