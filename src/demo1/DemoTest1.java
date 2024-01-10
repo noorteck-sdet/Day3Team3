@@ -30,6 +30,8 @@ public class DemoTest1 {
 	}
 
 	//WE LOVE JAVA!!!!!! - said no one
+			
+		System.out.println("Kamy");
 
 	}	
 	
