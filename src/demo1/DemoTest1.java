@@ -8,7 +8,7 @@ public class DemoTest1 {
 		System.out.println("Team 3");
 		System.out.println("Alishan stop...");
 
-<<<<<<< HEAD
+  // <<<<<<< HEAD // I corrected the Red Code on line 11 
 		//bye Alishan
 		
 		//Ahmed Aly Push
