@@ -8,42 +8,38 @@ public class DemoTest1 {
 		System.out.println("Team 3");
 		System.out.println("Alishan stop...");
 
-		// bye Alishan
+<<<<<<< HEAD
+		//bye Alishan
+		
+		//Ahmed Aly Push
+	    ArrayList<Integer> numList = new ArrayList<Integer>();
+		
+			numList.add(2);
+			numList.add(5);
+			numList.add(6);
+			numList.add(23);
+			numList.add(656);
+			numList.add(22);
+			numList.add(33);
+			numList.add(22);
+			numList.add(33);
+			numList.add(1);
 
-		// Ahmed Aly Push
-		ArrayList<Integer> numList = new ArrayList<Integer>();
-
-		numList.add(2);
-		numList.add(5);
-		numList.add(6);
-		numList.add(23);
-		numList.add(656);
-		numList.add(22);
-		numList.add(33);
-		numList.add(22);
-		numList.add(33);
-		numList.add(1);
-
-		for (Integer num : numList) {
-			System.out.println(num);
-
-		}
-
-		// Brian
+			for (Integer num : numList) {
+				System.out.println(num);
+		
 	}
 
-	public void add(int a, int b) {
-		System.out.println(a + b);
-	}
+	//WE LOVE JAVA!!!!!! - said no one
+			
+		System.out.println("Kamy");
 
-	// WE LOVE JAVA!!!!!! - said no one
+	}	
 	
-	public boolean isRaining() {
-		System.out.println("it is alwasy raining here...");
-		return true;
-
-
-		// i am here Akbar 
-	}
-
+	//Brian
+	//Not sure what I'm doing here just going to try to push this--Cindy
+	
+	
+	// Akbar I am going to Push this comment to GitHub...
+	
 }
