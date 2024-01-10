@@ -8,6 +8,7 @@ public class DemoTest1 {
 		System.out.println("Team 3");
 		System.out.println("Alishan stop...");
 
+<<<<<<< HEAD
 		//bye Alishan
 		
 		//Ahmed Aly Push
@@ -37,6 +38,8 @@ public class DemoTest1 {
 	
 	//Brian
 	//Not sure what I'm doing here just going to try to push this--Cindy
-	// Akbar I am going to clone this project to eclipse...
+	
+	
+	// Akbar I am going to Push this comment to GitHub...
 	
 }
