@@ -23,24 +23,18 @@ public class DemoTest1 {
 			numList.add(22);
 			numList.add(33);
 			numList.add(1);
-			
-			
-			
-			
+
 			for (Integer num : numList) {
 				System.out.println(num);
 		
 	}
-	
-	
-	
+
 	//WE LOVE JAVA!!!!!! - said no one
 
-	
 	}	
 	
 	//Brian
 	//Not sure what I'm doing here just going to try to push this--Cindy
-	// Akbar I am going to clone this project to eclips
+	// Akbar I am going to clone this project to eclipse...
 	
 }
